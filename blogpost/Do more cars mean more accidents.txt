@@ -1,0 +1,9 @@
+The New York City data repository is a result of the efforts of The Mayor's Office of Data Analytics and The Department of Information Technology and Telecommunications. It consists of hundreds of datasets across all aspects of the New York City administration.
+
+In this article, we investigate two datasets. One is a dataset of traffic accidents provided by the NYPD. It contains the date, time and location of traffic accidents, how many and what type of vehicles were involved, the number of injuries, and the cause. The second dataset is traffic volume counts provided by the DOT, which counts the number of cars per hour and gives the  date, the road and the direction of traffic flow.
+
+Do more cars mean more accidents? Is this the simple answer? Or, are there other factors that can contribute to the increase in accidents? When people are sleepy in the morning? Worn out after a day of work in evening rush hour? Exhausted at night? The question that we wish to answer, is there a time of day that there is a higher likelihood of getting into a car accident in New York City?
+
+To wrangle the data into a state we need to proceed with this investigation, we first import the traffic accident data. 
+
+Plotting the accidents per hour against the volume of traffic per hour reveals a relationship that appears linear.
