@@ -1,4 +1,4 @@
-# Traffic Accidents in New York City - A linear Regression Study
+# Traffic Accidents in New York City - A Linear Regression Study
 Springboard Capstone Project 1
 
 
